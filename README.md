@@ -14,6 +14,7 @@ Awesome Georgian Talks. ქართული თოქები.
 
 #####Mobile Development
 * [Hybrid Mobile Apps with Ionic Framework](https://www.youtube.com/watch?v=deGGLiCMZLU&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=3) by **Oto Meskhy** [0:59:38]
+
 #####Databases
 * [nosql](https://www.youtube.com/watch?v=d6D8SVJho40) by **Giorgi Jibladze** [0:28:36]
 

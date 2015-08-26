@@ -7,7 +7,13 @@ Awesome Georgian Talks. ქართული თოქები.
 #####Web Development
 * [Node.JS](https://www.youtube.com/watch?v=GO74oM2Fb4o) by **Ioseb Dzmanashvili** [0:44:34]
 * [The Web APIs](https://www.youtube.com/watch?v=pWSWImwblQ4) by **Ioseb Dzmanashvili** [0:58:21]
+* [HTTP/2 and Future of The Web](https://www.youtube.com/watch?v=X0F_28rQtJE&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=1) by **Ioseb Dzmanashvili** [0:59:27]
+* [Why you should (not) invest your time in AngularJS](https://www.youtube.com/watch?v=9GQ5zv6M8Mc&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=2) by **Aleksandre Khutsishvili** [0:30:34]
+* [D3 (Data-Driven Documents)](https://www.youtube.com/watch?v=wN05Cwt95zU&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=4) by **Levan Velijanashvili** [0:31:14]
+* [Single responsibility principle and CSS](https://www.youtube.com/watch?v=PEqFo8W21Mc&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=5) by **Irakli Safareli** [0:42:56]
 
+#####Mobile Development
+* [Hybrid Mobile Apps with Ionic Framework](https://www.youtube.com/watch?v=deGGLiCMZLU&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=3) by **Oto Meskhy** [0:59:38]
 #####Databases
 * [nosql](https://www.youtube.com/watch?v=d6D8SVJho40) by **Giorgi Jibladze** [0:28:36]
 

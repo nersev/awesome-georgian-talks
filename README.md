@@ -1,4 +1,4 @@
-# awesome-georgian-talks
+# Awesome Georgian Talks
 Awesome Georgian Talks. ქართული თოქები.
 ეს რეპოზიტორია აერთიანებს ქართულ თოქებს,რომლებიც ნამდვილად ღირს,რომ ნახოთ.
 #####Software Development

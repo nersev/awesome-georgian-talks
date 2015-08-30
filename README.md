@@ -1,5 +1,5 @@
 # Awesome Georgian Talks
-Awesome Georgian Talks. ქართული თოქები.
+ქართული თოქები.
 ეს რეპოზიტორია აერთიანებს ქართულ თოქებს,რომლებიც ნამდვილად ღირს,რომ ნახოთ.
 #####Software Development
 * [5 Stages](https://www.youtube.com/watch?v=GFim38_ycVE) by **George Mamaladze** [1:23:08]

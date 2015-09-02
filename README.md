@@ -3,6 +3,9 @@ Awesome Georgian Talks. ქართული თოქები.
 ეს რეპოზიტორია აერთიანებს ქართულ თოქებს,რომლებიც ნამდვილად ღირს,რომ ნახოთ.
 #####Software Development
 * [5 Stages](https://www.youtube.com/watch?v=GFim38_ycVE) by **George Mamaladze** [1:23:08]
+* [.NET](https://www.youtube.com/watch?v=QBJ4IhVH18w) by **Alex Amniashvili,Tamuna Kapanadze,Shota Ioramashvili** [0:55:16]
+* [მობილური აპლიკაციები](https://www.youtube.com/watch?v=gv48mbnMDzM) by **Gia Mirianashvili** [1:26:01]
+* [პროგრამირების ენები](https://www.youtube.com/watch?v=NxZuDglxcM0) by **Sandro Asatiani** [0:44:47]
 
 #####Web Development
 * [Node.JS](https://www.youtube.com/watch?v=GO74oM2Fb4o) by **Ioseb Dzmanashvili** [0:44:34]

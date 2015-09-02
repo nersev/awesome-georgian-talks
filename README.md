@@ -1,5 +1,5 @@
-# awesome-georgian-talks
-Awesome Georgian Talks. ქართული თოქები.
+# Awesome Georgian Talks
+ქართული თოქები.
 ეს რეპოზიტორია აერთიანებს ქართულ თოქებს,რომლებიც ნამდვილად ღირს,რომ ნახოთ.
 #####Software Development
 * [5 Stages](https://www.youtube.com/watch?v=GFim38_ycVE) by **George Mamaladze** [1:23:08]
@@ -14,6 +14,7 @@ Awesome Georgian Talks. ქართული თოქები.
 * [Why you should (not) invest your time in AngularJS](https://www.youtube.com/watch?v=9GQ5zv6M8Mc&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=2) by **Aleksandre Khutsishvili** [0:30:34]
 * [D3 (Data-Driven Documents)](https://www.youtube.com/watch?v=wN05Cwt95zU&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=4) by **Levan Velijanashvili** [0:31:14]
 * [Single responsibility principle and CSS](https://www.youtube.com/watch?v=PEqFo8W21Mc&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=5) by **Irakli Safareli** [0:42:56]
+* [Preprocessors for rapid development](https://www.youtube.com/watch?v=U26Ljk6ygAo) by **Levan Lotuashvili** [0:17:07]
 
 #####Mobile Development
 * [Hybrid Mobile Apps with Ionic Framework](https://www.youtube.com/watch?v=deGGLiCMZLU&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=3) by **Oto Meskhy** [0:59:38]

@@ -21,6 +21,7 @@
 
 #####Databases
 * [nosql](https://www.youtube.com/watch?v=d6D8SVJho40) by **Giorgi Jibladze** [0:28:36]
+* [მონაცემთა ბაზები](https://www.youtube.com/watch?v=zSXwkBW4X7I) by **Nugzar Amilakhvari** [1:54:09]
 
 #####Network
 * [ჭეშმარიტად დანაწევრებული მსოფლიო ქსელი](https://www.youtube.com/watch?v=3HBfGD9ooqY) by **Rezo Imnadze** [0:59:25]

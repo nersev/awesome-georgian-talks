@@ -15,6 +15,7 @@
 * [D3 (Data-Driven Documents)](https://www.youtube.com/watch?v=wN05Cwt95zU&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=4) by **Levan Velijanashvili** [0:31:14]
 * [Single responsibility principle and CSS](https://www.youtube.com/watch?v=PEqFo8W21Mc&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=5) by **Irakli Safareli** [0:42:56]
 * [Preprocessors for rapid development](https://www.youtube.com/watch?v=U26Ljk6ygAo) by **Levan Lotuashvili** [0:17:07]
+* [Back to Basics with Static Websites](https://www.youtube.com/watch?v=E7xYekpAHfY) by **Otar Chekurishvili** [0:34:30]
 
 #####Mobile Development
 * [მობილური აპლიკაციები](https://www.youtube.com/watch?v=gv48mbnMDzM) by **Gia Mirianashvili** [1:26:01]

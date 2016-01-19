@@ -25,7 +25,7 @@
 * [nosql](https://www.youtube.com/watch?v=d6D8SVJho40) by **Giorgi Jibladze** [0:28:36]
 * [მონაცემთა ბაზები](https://www.youtube.com/watch?v=zSXwkBW4X7I) by **Nugzar Amilakhvari** [1:54:09]
 
-#####Network
+#####Networking
 * [ჭეშმარიტად დანაწევრებული მსოფლიო ქსელი](https://www.youtube.com/watch?v=3HBfGD9ooqY) by **Rezo Imnadze** [0:59:25]
 
 #####Test-Driven Development
@@ -36,3 +36,5 @@
 * [Our path through abstract revolution](https://www.youtube.com/watch?v=_LPFOacU8rU) by **Ninutsa Nanitashvili** [0:13:43]
 * [The dots,which we call failure](https://www.youtube.com/watch?v=xPGePqW8n1s) by **Givi Beridze** [0:9:27]
 * [More than Code](https://www.youtube.com/watch?v=7laolN-J7ww) by **Shota Giorgobiani** [1:09:32]
+* [როგორ ვერ გავხდი $მილიონერი$](https://www.youtube.com/watch?v=Aoa5JEneN1U) by **Shota Giorgobiani** [1:01:02]
+* [It's all about having fun](https://www.youtube.com/watch?v=xIznxXl_04c) by **Shota Giorgobiani** [0:56:10]

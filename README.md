@@ -31,6 +31,10 @@
 #####Test-Driven Development
 * [Test Driven Development & Pair Programming](https://www.youtube.com/watch?v=yGg97JeyxWE) by **George Mamaladze** [1:01:55]
 
+#####Business/Managment
+* [ბავშვი - უკეთესი მენეჯერი](https://www.youtube.com/watch?v=kF1vv63htEE) by **Davit Gogichaishvili** [0:20:00]
+* [განვითარდი ან მოკვდი](https://www.youtube.com/watch?v=IdfqGDnfDl8) by **Alexander Jejelava" [0:20:19]
+
 #####Uncategorized
 * [კრეატიულობა და გლობალიზაცია](https://www.youtube.com/watch?v=Ru2FrMNozy0) by **Andro Dgebuadze** [0:23:52]
 * [Our path through abstract revolution](https://www.youtube.com/watch?v=_LPFOacU8rU) by **Ninutsa Nanitashvili** [0:13:43]

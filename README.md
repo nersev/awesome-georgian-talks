@@ -43,3 +43,4 @@
 * [More than Code](https://www.youtube.com/watch?v=7laolN-J7ww) by **Shota Giorgobiani** [1:09:32]
 * [როგორ ვერ გავხდი $მილიონერი$](https://www.youtube.com/watch?v=Aoa5JEneN1U) by **Shota Giorgobiani** [1:01:02]
 * [It's all about having fun](https://www.youtube.com/watch?v=xIznxXl_04c) by **Shota Giorgobiani** [0:56:10]
+* [Internships](https://www.youtube.com/watch?v=uuxj3jmwgHY) by **Cotne Tabidze** [0:22:59]
